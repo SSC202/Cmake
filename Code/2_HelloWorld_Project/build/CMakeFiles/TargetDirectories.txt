@@ -1,0 +1,5 @@
+/media/ssc/SSC/STM32SSC/CMake/Code/2_HelloWorld_Project/build/CMakeFiles/edit_cache.dir
+/media/ssc/SSC/STM32SSC/CMake/Code/2_HelloWorld_Project/build/CMakeFiles/rebuild_cache.dir
+/media/ssc/SSC/STM32SSC/CMake/Code/2_HelloWorld_Project/build/bin/CMakeFiles/helloworld.dir
+/media/ssc/SSC/STM32SSC/CMake/Code/2_HelloWorld_Project/build/bin/CMakeFiles/edit_cache.dir
+/media/ssc/SSC/STM32SSC/CMake/Code/2_HelloWorld_Project/build/bin/CMakeFiles/rebuild_cache.dir
